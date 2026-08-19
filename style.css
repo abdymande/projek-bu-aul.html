@@ -1,0 +1,20 @@
+h1,h2,h3,p{
+    color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+h4,h5,h6{
+    color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+
+.hexavolt{
+    background-color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#rpl6{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
