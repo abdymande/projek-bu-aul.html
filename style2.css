@@ -1,0 +1,28 @@
+p {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    text-align: left;
+}
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aqua;
+    text-align: left;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: chartreuse;
+    text-align: left;
+}
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+#judul-utama {
+    color: darkblue;
+    text-align: center;
+}
+.hexavolt{
+    background-color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
