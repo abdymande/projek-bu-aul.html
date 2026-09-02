@@ -1,0 +1,26 @@
+li {
+    background-color: #cc8e47(221, 101, 10);
+    padding: 15px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+.menu {
+    list-style: none;
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+#judul {
+    text-align: center;
+    color: #333;
+}
+
+li:hover {
+    background-color:rgb(214, 127, 13);
+    transform: scale(1.05);
+    cursor: pointer;
+}
